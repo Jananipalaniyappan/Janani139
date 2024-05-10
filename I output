@@ -1,0 +1,20 @@
+('Harini', 98)
+
+{'Janani': 99, 'Subha': 91, 'Vaitheesh': 89, 'Praveen': 93}
+
+('Praveen', 93)
+
+{'Janani': 99, 'Subha': 91, 'Vaitheesh': 89}
+
+('Vaitheesh', 89)
+
+{'Janani': 99, 'Subha': 91}
+
+('Subha', 91)
+
+{'Janani': 99}
+
+('Janani', 99)
+
+{}
+
